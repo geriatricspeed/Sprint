@@ -1,6 +1,6 @@
-/// @DnDAction : YoYo Games.Common.Set_Global
+/// @DnDAction : YoYo Games.Instance Variables.Set_Health
 /// @DnDVersion : 1
-/// @DnDHash : 4A1FFC82
-/// @DnDArgument : "value" "150"
-/// @DnDArgument : "var" "fuel"
-global.fuel = 150;
+/// @DnDHash : 6CBF2814
+/// @DnDArgument : "health" "100"
+
+__dnd_health = real(100);
