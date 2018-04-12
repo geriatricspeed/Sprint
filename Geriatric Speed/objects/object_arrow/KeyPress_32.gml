@@ -117,26 +117,6 @@ if(temp == 1)
 	/// @DnDParent : 3C729EFB
 	with(object_cannon) image_speed = 1;
 
-	/// @DnDAction : YoYo Games.Instances.Sprite_Rotate
-	/// @DnDVersion : 1
-	/// @DnDHash : 2A4B8852
-	/// @DnDApplyTo : 80eb2440-3617-42bb-a3ac-bac734fa5c09
-	/// @DnDParent : 3C729EFB
-	/// @DnDArgument : "angle" "object_cannon.direction"
-	with(object_spawnpoint) image_angle = object_cannon.direction;
-
-	/// @DnDAction : YoYo Games.Movement.Jump_To_Point
-	/// @DnDVersion : 1
-	/// @DnDHash : 07B4AE1F
-	/// @DnDApplyTo : 9065fecd-118a-421e-b93b-ff1fed187214
-	/// @DnDParent : 3C729EFB
-	/// @DnDArgument : "x" "object_spawnpoint.x"
-	/// @DnDArgument : "y" "object_spawnpoint.y"
-	with(object_grandpa) {
-	x = object_spawnpoint.x;
-	y = object_spawnpoint.y;
-	}
-
 	/// @DnDAction : YoYo Games.Instances.Destroy_Instance
 	/// @DnDVersion : 1
 	/// @DnDHash : 6058D7D8

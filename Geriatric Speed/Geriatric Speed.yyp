@@ -143,6 +143,14 @@
             }
         },
         {
+            "Key": "99bbeae4-cf49-4dd7-b047-06050e9f913e",
+            "Value": {
+                "id": "223868a7-1512-42c4-8592-6b6d812ca52a",
+                "resourcePath": "sprites\\sprite_wheels\\sprite_wheels.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "9ea09601-3a2d-4b77-8a2c-1c08f5a006ce",
             "Value": {
                 "id": "b6927d88-2a03-4d26-aae4-bced185cd264",
