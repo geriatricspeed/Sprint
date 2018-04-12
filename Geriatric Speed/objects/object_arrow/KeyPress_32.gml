@@ -125,15 +125,6 @@ if(temp == 1)
 	/// @DnDArgument : "angle" "object_cannon.direction"
 	with(object_spawnpoint) image_angle = object_cannon.direction;
 
-	/// @DnDAction : YoYo Games.Movement.Set_Direction_Free
-	/// @DnDVersion : 1
-	/// @DnDHash : 6095D554
-	/// @DnDApplyTo : 80eb2440-3617-42bb-a3ac-bac734fa5c09
-	/// @DnDParent : 3C729EFB
-	/// @DnDArgument : "direction" "100"
-	/// @DnDArgument : "direction_relative" "1"
-	with(object_spawnpoint) direction += 100;
-
 	/// @DnDAction : YoYo Games.Movement.Jump_To_Point
 	/// @DnDVersion : 1
 	/// @DnDHash : 07B4AE1F

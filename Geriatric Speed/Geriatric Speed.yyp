@@ -119,14 +119,6 @@
             }
         },
         {
-            "Key": "80eb2440-3617-42bb-a3ac-bac734fa5c09",
-            "Value": {
-                "id": "1a501f13-9351-47a2-9e10-9bedd98f0de4",
-                "resourcePath": "objects\\object_spawnpoint\\object_spawnpoint.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "8427047f-9ef8-4c77-89f3-9c20623d07b6",
             "Value": {
                 "id": "cc191501-e0b0-47f3-b131-434d462a72e6",
