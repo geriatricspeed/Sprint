@@ -87,6 +87,14 @@
             }
         },
         {
+            "Key": "606ed702-106f-4154-a4ce-a148d724dcc1",
+            "Value": {
+                "id": "e0022ae7-22bd-4733-b2bb-370ad97ba011",
+                "resourcePath": "objects\\object_score\\object_score.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "63cb3bd9-a486-4663-af18-99f193b2668f",
             "Value": {
                 "id": "200ec4e5-c06d-4f33-9946-ec45d4beec52",
@@ -132,6 +140,14 @@
                 "id": "86595c5b-f774-4803-a55e-69ae51902036",
                 "resourcePath": "views\\867ba067-75dd-4fe0-b94b-116868c5825d.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "8e4ad91d-0c9b-483f-b642-ff3674c451af",
+            "Value": {
+                "id": "af3f13b9-e625-41f7-8100-977ff4ed9ca2",
+                "resourcePath": "objects\\object_cannonwheels\\object_cannonwheels.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -188,6 +204,14 @@
                 "id": "a45a32c8-bec2-4f06-9109-a6d3e54dea21",
                 "resourcePath": "objects\\object_arrow\\object_arrow.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "b6f60d72-3ba6-472a-b925-8095b7299388",
+            "Value": {
+                "id": "0b0eeefd-9511-48d6-9140-079b32f858aa",
+                "resourcePath": "fonts\\scorefont\\scorefont.yy",
+                "resourceType": "GMFont"
             }
         },
         {

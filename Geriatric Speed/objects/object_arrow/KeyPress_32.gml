@@ -117,6 +117,14 @@ if(temp == 1)
 	/// @DnDParent : 3C729EFB
 	with(object_cannon) image_speed = 1;
 
+	/// @DnDAction : YoYo Games.Common.Set_Global
+	/// @DnDVersion : 1
+	/// @DnDHash : 64D596EB
+	/// @DnDParent : 3C729EFB
+	/// @DnDArgument : "value" "2"
+	/// @DnDArgument : "var" "spaceTrigger"
+	global.spaceTrigger = 2;
+
 	/// @DnDAction : YoYo Games.Instances.Destroy_Instance
 	/// @DnDVersion : 1
 	/// @DnDHash : 6058D7D8
